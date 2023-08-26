@@ -1,0 +1,53 @@
+body{
+  background-color: lightgray;
+}
+
+h1{
+  text-aliner: center;
+  font-size: 40;
+  width: 70%;
+  margin: auto;  
+  color: green;
+  font-family: "Chiller"
+}
+
+h2 {   
+  font-size: 20;
+  width: 70%; 
+  color:green; 
+  text-transformer: uppercase;
+  font-family: "Comic Sans MS"
+}
+
+p{
+  font-size: 20;
+  width: 70%; 
+  font-family: "Comic Sans MS"
+}
+
+img {
+  height: 200px;
+  border-style: dasked;
+  magin: 50px;
+}
+
+ label {
+  font-size:20;
+  width: 70%; 
+  font-family: "Comic Sans MS"
+}
+
+button {
+  font-size: 14px;
+  background: green;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  padding: 7px 20px;
+  text-transform: uppercase;
+  margin-left: 18px;
+  }
+
+
+
+    
